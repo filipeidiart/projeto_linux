@@ -1,2 +1,2 @@
-# projeto_linux
+# Projeto Linux
 Desafio de projeto Linux
